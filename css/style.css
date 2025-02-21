@@ -87,7 +87,7 @@ header{
 
 
 #feature{
-	width: 100%; min-height: 600px; background-image: url( "../../bannerbig.png");background-repeat: no-repeat; background-size: cover; background-position: center top;  padding-top: 70px
+	width: 100%; min-height: 600px; background-image: url( "images/bannerbig.png");background-repeat: no-repeat; background-size: cover; background-position: center top;  padding-top: 70px
 }
 .vien-trang{
 	width: 100%; min-height: 100px; border: 1px solid white; text-align: center
